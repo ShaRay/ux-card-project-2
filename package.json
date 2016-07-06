@@ -1,0 +1,34 @@
+{
+  "name": "ux-card-project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaRay/ux-card-project-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaRay/ux-card-project-2/issues"
+  },
+  "homepage": "https://github.com/ShaRay/ux-card-project-2#readme",
+  "dependencies": {
+    "basscss": "^8.0.1",
+    "basscss-align": "^1.0.2",
+    "basscss-background-colors": "^2.1.0",
+    "basscss-background-images": "^0.1.1",
+    "basscss-colors": "^2.2.0",
+    "basscss-responsive-margin": "^1.1.0",
+    "basscss-responsive-padding": "^1.1.0",
+    "basscss-utility-headings": "^0.1.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-serve": "^1.4.0"
+  }
+}
