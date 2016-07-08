@@ -1602,4 +1602,5 @@
     font-size: 3.84rem; } }
 
 body {
-  background-color: green; }
+  margin: 0;
+  padding: 0; }
